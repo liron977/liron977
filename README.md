@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liron Kotev </h1><a href="https://www.linkedin.com/in/liron-kotev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liron-kotev" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Liron Kotev <a href="https://www.linkedin.com/in/liron-kotev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liron-kotev" height="30" width="40" /></a> </h1>
 <h3 align="center">A passionate software engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
