@@ -15,3 +15,13 @@
     <img src="https://skillicons.dev/icons?i=java,c,cpp,spring,cs,docker,mysql,aws,postgresql,firebase,Tomcat,Linux" />
   </a>
 </p>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liron977&show_icons=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liron977&hide=jupyter%20notebook,Python&langs_count=4&layout=compact" />
+
+</a>
+<!-- <a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liron977&langs_count=10" />
+</a> -->
+  </div>
